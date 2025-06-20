@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vishnu Priya!
 
-🎓 Computer Science Student | 🔐 Cybersecurity Enthusiast | 🤖 Gen AI Explorer  
+🎓 Computer Science Student | 🔐 Cybersecurity Enthusiast | 🤖 Gen AI  
 📍 Based in India  
 📧 penugondavishnu23@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) • [GitHub](https://github.com/vcode007)
@@ -28,13 +28,13 @@ A Python-based CLI tool that checks for:
 - Expired SSL certificates  
 ➡️ [View on GitHub](https://github.com/vcode007/vuln-scanner)
 
-### 🧠 Paraphrase Identification Tool
-- NLP tool that groups similar sentences, generates paraphrases, and calculates similarity
-- Built with Flask and Hugging Face Transformers
-
 ### 🖼️ AI Enhanced Comic Book Generator
 - Turn prompts into high-quality comics using Stable Diffusion + Hugging Face
-
+  
+### 🔐 Phishing Email Detector
+Detect phishing emails using Hugging Face’s BART model with a clean UI.
+- 🌐 Built with Flask + Tailwind CSS
+- 📥 Uses Kaggle’s phishing dataset
 ---
 
 ## 📜 Certifications & Highlights
