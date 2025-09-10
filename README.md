@@ -68,3 +68,5 @@ Detect phishing emails using Hugging Face’s BART model with a clean UI.
 
 ### ☕ Like my work?
 Connect with me or drop a message on [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) 💬
+
+I'm currently looking for opportunities 
