@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Vishnu Priya!
 
-🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AIML  | Artist
+🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AIML  | Artist |
+
 📧 penugondavishnu23@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) • [GitHub](https://github.com/vcode007)
 
