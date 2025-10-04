@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vishnu Priya!
 
-🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AIML  
+🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AIML  | Artist
 📧 penugondavishnu23@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) • [GitHub](https://github.com/vcode007)
 
@@ -63,6 +63,10 @@ Detect phishing emails using Hugging Face’s BART model with a clean UI.
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcode007&layout=compact&theme=radical)
+
+---
+
+##🎨👩‍🎨Apart from being a techie, I'm also a small business owner who sells art prints and commissioned artworks, also a brand ambassador for Staedtler India😍
 
 ---
 
