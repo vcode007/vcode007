@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vishnu Priya!
 
-🎓 **AI Engineer | 2025 Grad** 🚀 Currently in a **30-Day AI Sprint**, building production-ready GenAI tools from scratch.
+🎓 **Aspiring AI Engineer | 2025 Grad** 🚀 Currently in a **30-Day AI Sprint**, building production-ready GenAI tools from scratch.
 
 📧 penugondavishnu23@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) • [GitHub](https://github.com/vcode007)
