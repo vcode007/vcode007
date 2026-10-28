@@ -6,8 +6,7 @@
 
 ---
 
-## 30-Day AI Sprint (Current Focus)
-I am currently building 2 projects per week to master the **Google Gemini ecosystem** and **AI Orchestration**.
+## AI Sprint
 - **Latest Project:** [AI-Powered Batch Document Summarizer](LINK_TO_REPO) - Built with Gemini 1.5 Flash, implementing automated retry logic and JSON data pipelines.
 
 ---
