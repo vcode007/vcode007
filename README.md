@@ -1,6 +1,6 @@
 # Hi there, I'm Vishnu Priya!
 
-** Software Engineer Trainee at Cisco **
+**Software Engineer Trainee at Cisco**
 
 🌐 [LinkedIn](https://linkedin.com/in/vishnu-priya-penugonda) • [GitHub](https://github.com/vcode007)
 
